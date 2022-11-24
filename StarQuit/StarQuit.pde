@@ -9,6 +9,7 @@ void setup()
  //Display & Oreintation Algorithm not consider yet
   size (400,300);//Landscape
  //FullScreen(); //displayWidth,displayHeight
+ displayOrientation();
  appWidth=width;
  appHeight=height;
  //
